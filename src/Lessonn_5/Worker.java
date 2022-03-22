@@ -1,7 +1,7 @@
 package Lessonn_5;
 
-public class HW5 {
-    public class Worker {
+public class Worker {
+
         private String name;
         private String rang;
         private String email;
@@ -35,4 +35,4 @@ public class HW5 {
         }
 
     }
-}
+
